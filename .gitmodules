@@ -1,3 +1,6 @@
 [submodule "vifrin-backend"]
 	path = vifrin-backend
 	url = https://github.com/trantuananh1/vifirn-backend.git
+[submodule "vifrin-frontend"]
+	path = vifrin-frontend
+	url = https://github.com/trantuananh1/vifrin-frontend.git
